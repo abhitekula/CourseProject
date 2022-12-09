@@ -26,7 +26,7 @@ In source directory run ```docker build .```
 ## Adding additional python dependencies
 Update the requirements.txt with the additional pypi dependencies and rebuild the docker image.
 
-Ex: add scipy to requirements to txt to install scipy dependencies
+Ex: add scipy to requirements.txt to install scipy and its dependencies
 
 ## Resources
 * Metapy - https://github.com/meta-toolkit/metapy
